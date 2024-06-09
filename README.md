@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nasih0
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning full stack developmen
+- 👀 full stack flutter developer
+- 🌱 android and ios mobile applications using flutter
 
 
 <!---
